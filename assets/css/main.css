@@ -1,0 +1,90 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	color: #fff;
+}
+
+#panda {
+	background-color: #ff8860;
+	width: 100%;
+	text-align: right;
+	padding: 3% 0;
+}
+
+.panda-title {
+	font-size: 200%;
+	padding-right: 3%;
+}
+
+.description {
+	font-size: 80%;
+	padding-right: 3%;
+}
+
+#panda-photo1,  #panda-photo2, #panda-photo3, .panda-pic {
+	padding: 0;
+	margin: 0;
+	background-color: #ff8860;
+}
+
+.photo1 {
+	width: 100%;
+}
+
+#textOfPandas {
+	background-color: #8ff184;
+	border-top: 20px solid #ff8860;
+	border-bottom: 20px solid #ff8860;
+	padding: 3% 30%;
+}
+
+.align {
+	background-color: #ff8860;
+}
+
+.title-pandas {
+	font-size: 150%;
+	text-align: center;
+	padding: 2% 0;
+}
+
+.paragraph-pandas {
+	font-size: 100%;
+	text-align: center;
+}
+
+#pictures {
+	background-color: #8ff184;
+	border-top: 20px solid #ff8860;
+	border-bottom: 20px solid #ff8860;
+	padding: 3% 30%;
+	margin: 0;
+	padding: 2% 10%;
+}
+
+.pandas-picures {
+	font-size: 200%;
+	text-align: center;
+	padding: 2% 0;
+}
+
+.miniphoto {
+	text-align: center;
+}
+
+.pictures4 {
+	border: 10px solid #fff;
+	width: 70%;
+}
+
+#footer {
+	background-color: #ff8860;
+	width: 100%;
+	text-align: right;
+}
+
+.footer-text {
+	font-size: 105%;
+	font-weight: 900;
+	padding-top: 1%;
+}
